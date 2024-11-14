@@ -83,7 +83,7 @@ const Navbar = () => {
         </Links>
         <Icons>
           <Icon src="./img/search.png" />
-          <Button>We're Hiring!!!</Button>
+          <Button onClick={() => window.location.href = 'https://sejals-amazing-site-c50425.webflow.io/'}>We're Hiring!!!</Button>
         </Icons>
       </Container>
     </Section>

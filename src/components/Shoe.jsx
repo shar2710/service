@@ -15,7 +15,7 @@ export default function Shoe({ color, ...props }) {
       />
       <mesh castShadow receiveShadow geometry={nodes.shoe_1.geometry}>
         <meshStandardMaterial
-          color="purple"
+          color="pink"
           aoMap={materials.mesh.aoMap}
           normalMap={materials.mesh.normalMap}
           normalMap-encoding={THREE.LinearEncoding}

@@ -56,7 +56,7 @@ const TextArea = styled.textarea`
 `;
 
 const Button = styled.button`
-  background-color: #da4ea2;
+  background-color: yellow;
   color: white;
   border: none;
   font-weight: bold;
